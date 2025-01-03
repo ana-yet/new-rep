@@ -1,0 +1,9 @@
+.box {
+  height: 200px;
+  width: 100%;
+  font-family: "Courier New", Courier, monospace;
+
+  font-style: bold;
+  background-color: tomato;
+  text-align: center;
+}
